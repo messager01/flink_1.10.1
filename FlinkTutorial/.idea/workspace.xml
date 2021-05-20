@@ -390,7 +390,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621483128662" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621487157946" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/bash.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -519,12 +519,12 @@
       <workItem from="1621331677009" duration="2396000" />
       <workItem from="1621476193580" duration="534000" />
       <workItem from="1621476758731" duration="61000" />
-      <workItem from="1621476847474" duration="4941000" />
+      <workItem from="1621476847474" duration="5540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69253000" />
+    <option name="totallyTimeSpent" value="69852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
