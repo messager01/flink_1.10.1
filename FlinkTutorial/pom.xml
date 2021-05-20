@@ -48,6 +48,31 @@
             <version>1.10.1</version>
         </dependency>
 
+
+        <!-- fink-table-planer 是官方的 计划器 -->
+        <!--  flink-table-planer-blink 是阿里提供的 -->
+        <!--  如果两者都引入，1.10.1使用的是  fink-table-planer    1.11.X 默认使用的是  flink-table-planer-blink -->
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-table-planner_2.12</artifactId>
+            <version>1.10.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-table-planner-blink_2.12</artifactId>
+            <version>1.10.1</version>
+        </dependency>
+
+
+        <!-- 引入新版的 flink csv 依赖   格式化描述器-->
+        <dependency>
+            <groupId>org.apache.flink</groupId>
+            <artifactId>flink-csv</artifactId>
+            <version>1.10.1</version>
+        </dependency>
+
+
     </dependencies>
 
 </project>
